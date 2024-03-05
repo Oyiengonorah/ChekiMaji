@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627424379060",
+    "project_id": "chekimaji-a0805",
+    "storage_bucket": "chekimaji-a0805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627424379060:android:a3500118da39434a8797e1",
+        "android_client_info": {
+          "package_name": "com.norah.chekimaji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627424379060-lfasgkduc6bqfgs3ckmnr10ivnebfsq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjGMFp-pZrfw1uDBB6Z2hI_1BtfFNNr4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627424379060-lfasgkduc6bqfgs3ckmnr10ivnebfsq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
